@@ -1,4 +1,5 @@
 import java.util.*;  
+
 public class FascinatingNumberExample1  
 {  
 public static void main(String args[])  
